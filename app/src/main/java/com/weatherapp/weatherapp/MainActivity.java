@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity implements WeatherResponseLi
 
 
     private static final String TAG = "MainActivity";
-    private static final String API_KEY = "25253fe32a908424579e155ad66f1490";
+    private static final String API_KEY = "";
     private static final String CITYFinal = "Udupi";
     String city = "Udupi";
     TextView temperatureText,coordText,tempDetText,cityText;

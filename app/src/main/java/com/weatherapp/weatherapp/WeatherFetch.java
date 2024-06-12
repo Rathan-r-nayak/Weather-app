@@ -9,7 +9,7 @@ import java.net.URL;
 
 public class WeatherFetch extends AsyncTask<Void,Void,String>
 {
-    private static final String API_KEY = "25253fe32a908424579e155ad66f1490";
+    private static final String API_KEY = "";
     private static final String CITYFinal = "Udupi";
     private WeatherResponseListner listener;
     MainActivity mainActivity;
